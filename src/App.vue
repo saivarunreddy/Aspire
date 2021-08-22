@@ -43,7 +43,7 @@
   padding: 3rem;
   #company-description {
     color: #ffffff;
-    opacity: 30%;
+    opacity: 0.3;
     margin-top: 1rem;
   }
   #nav-items {
