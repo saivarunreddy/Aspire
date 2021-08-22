@@ -33,6 +33,7 @@
   display: flex;
   > div {
     min-height: 100vh !important;
+    max-height: 100vh !important;
     overflow: auto;
   }
 }
